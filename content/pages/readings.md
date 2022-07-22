@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides citations for the required textbook and recommended
+  papers for the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: f5665c80-1eaa-1c95-8a00-67f2bbfde7fe
 ---
@@ -12,7 +17,7 @@ Tse, David, and Pramod Viswanath. _Fundamentals of Wireless Communication_. Camb
 Recommended Papers
 ------------------
 
-Students were encouraged to consult the following papers in completing their course [projects]({{< baseurl >}}/pages/projects).
+Students were encouraged to consult the following papers in completing their course {{% resource_link e291a8bd-c20d-25eb-748e-ab4e5ebd766c "projects" %}}.
 
 Rao, Chaitanya, and Babak Hassibi. "Analysis of Multiple-antenna Wireless Links at Low SNR." _IEEE Transactions on Information Theory_ 50, no. 9 (2004): 2123-2130.
 
