@@ -12,7 +12,7 @@ uid: f5665c80-1eaa-1c95-8a00-67f2bbfde7fe
 Required Textbook
 -----------------
 
-Tse, David, and Pramod Viswanath. _Fundamentals of Wireless Communication_. Cambridge, UK: Cambridge University Press, 2005. ISBN: 0521845270. [Online version](https://web.stanford.edu/~dntse/papers/book121004.pdf).
+Tse, David, and Pramod Viswanath. _Fundamentals of Wireless Communication_. Cambridge, UK: Cambridge University Press, 2005. ISBN: 0521845270. {{% resource_link "88df57dc-c57d-4972-bfeb-f64d4bc4bc60" "Online version" %}}.
 
 Recommended Papers
 ------------------
