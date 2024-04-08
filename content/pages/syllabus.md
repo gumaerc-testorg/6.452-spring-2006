@@ -36,7 +36,7 @@ Textbook
 
 The required textbook is the new and very nice book,
 
-Tse, David, and Pramod Viswanath. _Fundamentals of Wireless Communication_. Cambridge, UK: Cambridge University Press, 2005. ISBN: 0521845270. [Online version](https://web.stanford.edu/~dntse/papers/book121004.pdf).
+Tse, David, and Pramod Viswanath. _Fundamentals of Wireless Communication_. Cambridge, UK: Cambridge University Press, 2005. ISBN: 0521845270. {{% resource_link "88df57dc-c57d-4972-bfeb-f64d4bc4bc60" "Online version" %}}.
 
 **Note:** I personally believe this book is one of the best technical books, and a hard copy is worth having. It is fine to go through this course with only the on-line version, for the assigned readings and problem sets. Printing out the whole book is however considered a waste of resource and strongly discouraged.
 
